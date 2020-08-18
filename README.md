@@ -10,7 +10,7 @@ description: Custom swaggers to support Logic Apps and Power Apps with Azure Dig
 
 # Azure Digital Twins Custom Swaggers
 
-Custom swaggers to support Logic Apps and Power Apps with Azure Digital Twins.
+Custom data plane swaggers to support Logic Apps and Power Apps with Azure Digital Twins.
 
 ## Contents
 
