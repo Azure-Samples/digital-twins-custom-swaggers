@@ -16,7 +16,9 @@ Custom data plane swaggers to support Logic Apps and Power Apps with Azure Digit
 
 | File/folder | Description |
 | --- | --- |
-| `LogicApps` | Holds custom Swaggers for use with Logic Apps. |
+| `LogicApps` | Holds custom swaggers for use with Logic Apps. |
+| `LogicApps/preview/2020-05-31-preview` | The public preview swagger to use for creating a Logic Apps Custom Connector. |
+| `LogicApps/stable/2020-10-31` | The latest stable swagger to use for creating a Logic Apps Custom Connector. |
 
 ### Generic contents
 
