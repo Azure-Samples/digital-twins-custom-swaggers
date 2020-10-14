@@ -4,13 +4,13 @@ languages:
 - json
 products:
 - azure-digital-twins
-name: Azure Digital Twins Custom Swaggers
-description: Custom swaggers to support Logic Apps and Power Apps with Azure Digital Twins
+name: Azure Digital Twins custom Swaggers (Logic Apps connector)
+description: Custom swaggers to support Logic Apps with Azure Digital Twins
 ---
 
-# Azure Digital Twins Custom Swaggers
+# Azure Digital Twins custom Swaggers (Logic Apps connector)
 
-Custom data plane swaggers to support Logic Apps and Power Apps with Azure Digital Twins. 
+Custom data plane swaggers to support Logic Apps with Azure Digital Twins.
 
 ## Contents
 
