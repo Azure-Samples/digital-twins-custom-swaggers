@@ -6,6 +6,7 @@ products:
 - azure-digital-twins
 name: Azure Digital Twins custom Swaggers (Logic Apps connector)
 description: Custom swaggers to support Logic Apps with Azure Digital Twins
+urlFragment: azure-digital-twins-custom-swaggers
 ---
 
 # Azure Digital Twins custom Swaggers (Logic Apps connector)
